@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-15T16:42:19 IST" name="Suite" finished-at="2024-02-15T16:43:20 IST" duration-ms="61336">
+    <groups>
+    </groups>
+    <test started-at="2024-02-15T16:42:19 IST" name="Test" finished-at="2024-02-15T16:43:20 IST" duration-ms="61336">
+      <class name="TestClass_Pakages.Login_Logout">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestClass_Pakages.Login_Logout@1ddf84b8]" started-at="2024-02-15T16:42:22 IST" name="launchBrowser" finished-at="2024-02-15T16:42:24 IST" duration-ms="2449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="createObject()[pri:0, instance:TestClass_Pakages.Login_Logout@1ddf84b8]" started-at="2024-02-15T16:43:00 IST" name="createObject" finished-at="2024-02-15T16:43:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createObject -->
+        <test-method is-config="true" signature="loginUserAccount()[pri:0, instance:TestClass_Pakages.Login_Logout@1ddf84b8]" started-at="2024-02-15T16:43:00 IST" name="loginUserAccount" finished-at="2024-02-15T16:43:09 IST" duration-ms="9100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserAccount -->
+        <test-method signature="verifyDashboard()[pri:0, instance:TestClass_Pakages.Login_Logout@1ddf84b8]" started-at="2024-02-15T16:43:09 IST" name="verifyDashboard" finished-at="2024-02-15T16:43:09 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDashboard -->
+        <test-method is-config="true" signature="logoutUserAccount()[pri:0, instance:TestClass_Pakages.Login_Logout@1ddf84b8]" started-at="2024-02-15T16:43:09 IST" name="logoutUserAccount" finished-at="2024-02-15T16:43:12 IST" duration-ms="2518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutUserAccount -->
+        <test-method is-config="true" signature="clearObjects()[pri:0, instance:TestClass_Pakages.Login_Logout@1ddf84b8]" started-at="2024-02-15T16:43:12 IST" name="clearObjects" finished-at="2024-02-15T16:43:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearObjects -->
+        <test-method is-config="true" signature="closedBrowser()[pri:0, instance:TestClass_Pakages.Login_Logout@1ddf84b8]" started-at="2024-02-15T16:43:16 IST" name="closedBrowser" finished-at="2024-02-15T16:43:19 IST" duration-ms="2781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedBrowser -->
+      </class> <!-- TestClass_Pakages.Login_Logout -->
+      <class name="TestClass_Pakages.LoginPage">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestClass_Pakages.LoginPage@9353778]" started-at="2024-02-15T16:42:19 IST" name="launchBrowser" finished-at="2024-02-15T16:42:22 IST" duration-ms="2779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="createObject()[pri:0, instance:TestClass_Pakages.LoginPage@9353778]" started-at="2024-02-15T16:42:27 IST" name="createObject" finished-at="2024-02-15T16:42:27 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createObject -->
+        <test-method is-config="true" signature="loginUserAccount()[pri:0, instance:TestClass_Pakages.LoginPage@9353778]" started-at="2024-02-15T16:42:27 IST" name="loginUserAccount" finished-at="2024-02-15T16:42:35 IST" duration-ms="8170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserAccount -->
+        <test-method signature="verifyLoginPage()[pri:0, instance:TestClass_Pakages.LoginPage@9353778]" started-at="2024-02-15T16:42:35 IST" name="verifyLoginPage" finished-at="2024-02-15T16:42:35 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method is-config="true" signature="clearObjects()[pri:0, instance:TestClass_Pakages.LoginPage@9353778]" started-at="2024-02-15T16:42:35 IST" name="clearObjects" finished-at="2024-02-15T16:42:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearObjects -->
+        <test-method is-config="true" signature="closedBrowser()[pri:0, instance:TestClass_Pakages.LoginPage@9353778]" started-at="2024-02-15T16:43:12 IST" name="closedBrowser" finished-at="2024-02-15T16:43:16 IST" duration-ms="4112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedBrowser -->
+      </class> <!-- TestClass_Pakages.LoginPage -->
+      <class name="TestClass_Pakages.UpdateResume">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestClass_Pakages.UpdateResume@5c30a9b0]" started-at="2024-02-15T16:42:24 IST" name="launchBrowser" finished-at="2024-02-15T16:42:27 IST" duration-ms="2452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="createObject()[pri:0, instance:TestClass_Pakages.UpdateResume@5c30a9b0]" started-at="2024-02-15T16:42:35 IST" name="createObject" finished-at="2024-02-15T16:42:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createObject -->
+        <test-method is-config="true" signature="loginUserAccount()[pri:0, instance:TestClass_Pakages.UpdateResume@5c30a9b0]" started-at="2024-02-15T16:42:35 IST" name="loginUserAccount" finished-at="2024-02-15T16:42:58 IST" duration-ms="22388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserAccount -->
+        <test-method signature="verifyUpdatepage()[pri:0, instance:TestClass_Pakages.UpdateResume@5c30a9b0]" started-at="2024-02-15T16:42:58 IST" name="verifyUpdatepage" finished-at="2024-02-15T16:42:58 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUpdatepage -->
+        <test-method is-config="true" signature="logoutUserAccount()[pri:0, instance:TestClass_Pakages.UpdateResume@5c30a9b0]" started-at="2024-02-15T16:42:58 IST" name="logoutUserAccount" finished-at="2024-02-15T16:43:00 IST" duration-ms="2529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutUserAccount -->
+        <test-method is-config="true" signature="clearObjects()[pri:0, instance:TestClass_Pakages.UpdateResume@5c30a9b0]" started-at="2024-02-15T16:43:00 IST" name="clearObjects" finished-at="2024-02-15T16:43:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearObjects -->
+        <test-method is-config="true" signature="closedBrowser()[pri:0, instance:TestClass_Pakages.UpdateResume@5c30a9b0]" started-at="2024-02-15T16:43:19 IST" name="closedBrowser" finished-at="2024-02-15T16:43:20 IST" duration-ms="1767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closedBrowser -->
+      </class> <!-- TestClass_Pakages.UpdateResume -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
